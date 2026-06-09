@@ -3,7 +3,7 @@ motd:
   update-seconds: 30
 
   line1: "&b&lZyberPE Factions!"
-
+  line2: "&b&lZyberPE Factions!"
 date-time:
   enabled: true
   date-format: "Y-m-d"
