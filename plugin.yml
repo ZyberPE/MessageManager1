@@ -1,0 +1,14 @@
+name: MessageManager1
+version: 1.0.0
+main: MessageManager1\Main
+api: 5.0.0
+author: ZyberPE
+
+commands:
+  mmreload:
+    description: Reload MessageManager1
+    permission: messagemanager.reload
+
+permissions:
+  messagemanager.reload:
+    default: op
