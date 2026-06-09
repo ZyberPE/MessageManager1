@@ -1,0 +1,28 @@
+motd:
+  enabled: true
+  update-seconds: 30
+
+  line1: "&b&lZyberPE Factions!"
+
+date-time:
+  enabled: true
+  date-format: "Y-m-d"
+  time-format: "H:i:s"
+
+messages:
+
+  join: "&a+ {player}"
+  quit: "&c- {player}"
+
+  first-join-broadcast: "&6{player} has joined the server for the first time!"
+  first-join-message:
+    - "&aWelcome {player}!"
+    - "&eEnjoy your stay."
+
+  whitelist: "&cThis server is currently whitelisted."
+
+  server-full: "&cThe server is currently full."
+
+settings:
+  custom-whitelist-message: true
+  custom-full-message: true
